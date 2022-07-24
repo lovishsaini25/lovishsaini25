@@ -3,13 +3,6 @@
 ### Hi there 👋
 
 <p align="" widht="300">I'm Lovish Saini, a developer and designer from India. I'm interested in data science, AI/ML, Angular, startups, stocks, finance, and building the next generation products.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lovishsaini25" alt="lovishsaini25" /> </p>
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovishsaini25" alt="lovishsaini25" /> </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovishsaini25" alt="lovishsaini25" /> </p>
-<a  href="https://www.linkedin.com/in/lovishsaini25/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
-<a  href="https://www.instagram.com/lovishsaini25/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
-<a  href="https://twitter.com/LOVISHSAINI1"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/twitter.png" width="40" /></a>
-
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
@@ -23,6 +16,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lovishsaini25" alt="lovishsaini25" /> </p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovishsaini25" alt="lovishsaini25" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovishsaini25" alt="lovishsaini25" /> </p>
+<a  href="https://www.linkedin.com/in/lovishsaini25/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
+<a  href="https://www.instagram.com/lovishsaini25/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
+<a  href="https://twitter.com/LOVISHSAINI1"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/twitter.png" width="40" /></a>
+
 
 <!--
 **lovishsaini25/lovishsaini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
